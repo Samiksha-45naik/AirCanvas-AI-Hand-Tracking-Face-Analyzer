@@ -27,9 +27,6 @@ This project combines **Hand Tracking**, **Gesture Recognition**, and **Facial E
 - Emotion-aware applications
 - Interactive AI demos and projects
 
-## 📸 Demo
-
-(Add screenshots / demo video here)
 
 ## ⚙️ Installation
 
